@@ -289,7 +289,7 @@ CREATE TABLE `userregistration` (
 --
 
 INSERT INTO `userregistration` (`id`, `regNo`, `firstName`, `middleName`, `lastName`, `gender`, `contactNo`, `course`, `hostel`, `email`, `password`, `regDate`, `updationDate`, `passUdateDate`) VALUES
-(3, '19N02/045', 'Test', 'User', 'Login', 'Male', 804567890, 'Computer Science','Joseph Adetiloye Hall (Male)', 'test@gmail.com', 'Test@123', '2022-12-01', NULL, NULL);
+(3, '19N02/045', 'Test', 'User', 'Login', 'Male', 804567890, 'Computer Science','Hall 1 (Male)', 'test@gmail.com', 'Test@123', '2022-12-01', NULL, NULL);
 
 --
 -- Indexes for dumped tables

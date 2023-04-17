@@ -6,8 +6,8 @@ Installation Steps(Configuration)
 Open phpmyadmin
 Create Database hostel.
 Import database hostel.sql
-Open Your browser put inside browser �http://localhost/hostel/�
+Open Your browser put inside browser �http://localhost/HMS
 Login Details
-To Login as admin put inside browser �http://localhost/hostel�
+To Login as admin put inside browser �http://localhost/HMS
 Login Details for admin : admin/admin
 Login Details for user : test@gmail.com/Test@123
